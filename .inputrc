@@ -1,0 +1,11 @@
+#                -*- conf -*-
+
+$if K
+"\ep": "π" # meta+p aka alt+p
+"\eo": "ø"
+"\eO": "Ø"
+"\ei": "∞"
+$endif
+
+"\C-hm": dump-macros     # \h
+
